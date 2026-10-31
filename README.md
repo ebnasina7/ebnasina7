@@ -77,16 +77,22 @@ off_screen: football ⚽
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ NOMAD Oasis @ PDI *(work)*
-I run the institute's self-hosted **[NOMAD Oasis](https://nomad-lab.eu/)**, where materials scientists store and share research data.
+### 🗄️ NOMAD Oasis @ PDI Berlin *(work)*
 
-- 🔐 Migrated the deployment from HTTP to **HTTPS** across servers
-- 📊 Built **custom dashboards** on the NOMAD API
-- 🛡️ Security updates and access control with Docker & Nginx
+I maintain the institute's self-hosted **[NOMAD Oasis](https://nomad-lab.eu/)**, where materials scientists store, search and share their research data.
 
+- 🧩 Extend the institute's **NOMAD plugin** (Python): data schemas, normalizers and search apps for MBE growth, substrates and samples
+- 🔬 Contributed upstream to **FAIRmat** (`readers-xrd`, `nomad-measurements`): automatic instrument linking and timestamps for XRD data
+- 🔐 Set up **HTTPS** with Nginx, so login works in NOMAD's new web interface
+- 🐳 Run Docker test environments for colleagues, with monitoring via Grafana & Prometheus
+- ✅ Keep plugin code passing CI (Ruff, pytest on GitHub Actions)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
