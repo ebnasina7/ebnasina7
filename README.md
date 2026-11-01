@@ -14,8 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ebna-sina/"><img src="https://img.shields.io/badge/LinkedIn-ebna--sina-203a43?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" alt="LinkedIn"/></a>
   <a href="https://github.com/pdi-sina"><img src="https://img.shields.io/badge/Work%20GitHub-pdi--sina-203a43?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="Work GitHub"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Berlin-203a43?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f2027" alt="Berlin"/>
-</p>
+<a href="https://www.google.com/maps/place/Berlin"><img src="https://img.shields.io/badge/Based%20in-Berlin-203a43?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f2027" alt="Berlin"/></a></p>
 
 ---
 
