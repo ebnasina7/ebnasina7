@@ -5,7 +5,7 @@
 
 <!-- Typing line -->
 <p align="center">
-  <a href="https://github.com/sina-778">
+  <a href="https://github.com/ebnasina7">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2C9FB8&center=true&vCenter=true&width=620&lines=MSc+Data+Science+%40+BHT+Berlin;Working+Student+%40+Paul-Drude-Institut;Built+FootScout+%E2%9A%BD+AI+player+scouting;Routing+LLMs+with+System+1+models+%F0%9F%A7%A0;Running+a+NOMAD+Oasis+for+research+data" alt="Typing SVG"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ off_screen: football ⚽
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ [FootScout](https://github.com/sina-778/footscout)
+### ⚽ [FootScout](https://github.com/ebnasina7/footscout)
 **AI football scouting engine.** *"Find me a striker like Haaland under €80M"*, and it does.
 
 - 🔍 Natural-language search across **1,474 players**, 5 leagues + WC 2026
@@ -57,7 +57,7 @@ off_screen: football ⚽
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Hybrid Brain: System 1 routes, System 2 answers](https://github.com/sina-778/system1-demo)
+### 🧠 [Hybrid Brain: System 1 routes, System 2 answers](https://github.com/ebnasina7/system1-demo)
 **Live classroom demo of System 1 decision models** routing tasks to LLMs on the GWDG supercomputer.
 
 - ⚡ A System 1 model scores each task with **probabilities** (which specialist? needs reasoning? how hard?) instead of generating text
@@ -69,7 +69,7 @@ off_screen: football ⚽
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-2C9FB8?style=flat-square&labelColor=0f2027)
 
-<a href="https://github.com/sina-778/system1-demo"><img src="https://img.shields.io/badge/View%20code-203a43?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="Code"/></a>
+<a href="https://github.com/ebnasina7/system1-demo"><img src="https://img.shields.io/badge/View%20code-203a43?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="Code"/></a>
 
 </td>
 </tr>
@@ -106,9 +106,9 @@ Advanced ML group project at BHT on **LoRA** (Hu et al., ICLR 2022): fine-tuning
 
 <p align="center">
   <b>Earlier work:</b>
-  <a href="https://github.com/sina-778/pattern_lab">🔬 pattern_lab</a> (pattern recognition, Python) ·
-  <a href="https://github.com/sina-778/Student_Management_System">🎓 Student Management System</a> (Java) ·
-  <a href="https://github.com/sina-778/Free-Time-Tutoring">📚 Free-Time-Tutoring</a> (HTML/CSS)
+  <a href="https://github.com/ebnasina7/pattern_lab">🔬 pattern_lab</a> (pattern recognition, Python) ·
+  <a href="https://github.com/ebnasina7/Student_Management_System">🎓 Student Management System</a> (Java) ·
+  <a href="https://github.com/ebnasina7/Free-Time-Tutoring">📚 Free-Time-Tutoring</a> (HTML/CSS)
 </p>
 
 ---
@@ -129,11 +129,11 @@ I use two accounts: **this one for personal & study projects**, and **[@pdi-sina
 
 <table align="center">
 <tr>
-<td align="center"><b>🧑‍💻 Personal · <a href="https://github.com/sina-778">@sina-778</a></b></td>
+<td align="center"><b>🧑‍💻 Personal · <a href="https://github.com/ebnasina7">@ebnasina7</a></b></td>
 <td align="center"><b>🔬 Work @ PDI · <a href="https://github.com/pdi-sina">@pdi-sina</a></b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://streak-stats.demolab.com?user=sina-778&theme=transparent&hide_border=true&ring=2C9FB8&fire=2C9FB8&currStreakLabel=2C9FB8&sideLabels=2C9FB8&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&stroke=30363d" alt="Personal streak"/></td>
+<td align="center"><img src="https://streak-stats.demolab.com?user=ebnasina7&theme=transparent&hide_border=true&ring=2C9FB8&fire=2C9FB8&currStreakLabel=2C9FB8&sideLabels=2C9FB8&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&stroke=30363d" alt="Personal streak"/></td>
 <td align="center"><img src="https://streak-stats.demolab.com?user=pdi-sina&theme=transparent&hide_border=true&ring=2C9FB8&fire=2C9FB8&currStreakLabel=2C9FB8&sideLabels=2C9FB8&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&stroke=30363d" alt="Work streak"/></td>
 </tr>
 </table>
